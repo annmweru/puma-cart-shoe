@@ -1,0 +1,26 @@
+[
+    [
+        "ChipType",
+        "DY7P8F16"
+    ],
+    [
+        "cleanFlag",
+        true
+    ],
+    [
+        "ProjectType",
+        "HRCC"
+    ],
+    [
+        "ToolChain",
+        ""
+    ],
+    [
+        "TargetPath",
+        "Debug"
+    ],
+    [
+        "Name",
+        "3D animation"
+    ]
+]
